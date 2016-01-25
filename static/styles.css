@@ -1,0 +1,13 @@
+/*Your styles can go here.*/
+input {
+    background-color: yellow;
+}
+
+span {
+    font-weight: bold;
+}
+
+.instruction-box {
+    border-style: solid;
+}
+
